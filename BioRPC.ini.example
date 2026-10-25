@@ -1,0 +1,6 @@
+# Optional. Rename to BioRPC.ini and put it next to BioRPC.dll.
+#
+# Publish to your own Discord application instead of the one built into the plugin.
+# The art keys your application has to hold are listed in docs/discord-assets.md.
+#
+# client_id = 1234567890123456789
